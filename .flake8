@@ -1,4 +1,4 @@
 [flake8]
 exclude =
-    __pycaache__
+    __pycache__
     env
